@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/Video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/PreWork.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap
+GIF created with Kap then converted to Mp4 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
